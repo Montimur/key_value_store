@@ -1,5 +1,7 @@
 **/*.o
 **/*.a
 /bin
+/test
+.vscode
 *.a
 *.o
