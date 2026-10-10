@@ -6,4 +6,6 @@ int main() {
   printf("%p\n", table);
 
   printf("%ld\n", table->capacity);
+
+  kv_put(table, "hehe", "haha");
 }
